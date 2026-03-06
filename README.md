@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 20 Newsgroups Semantic Search + Cluster-Aware Semantic Cache
 
 This project implements an end-to-end lightweight semantic retrieval system for the 20 Newsgroups corpus with:
@@ -147,3 +148,7 @@ docker-compose up --build
 - Grant repo access to `recruitments@trademarkia.com`
 - Submit both links in:
   - https://forms.gle/4RpHZpAi8rbG9QCE8
+=======
+# Trademarkia-Task
+“This project is a semantic search API built on the 20 Newsgroups dataset.” “It combines embeddings, fuzzy clustering, vector retrieval, and a semantic cache.” “The main goal is relevant retrieval + faster repeated responses through caching.”
+>>>>>>> 70bc7117eeffa4759172b8925020444c95da620b
